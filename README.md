@@ -1,2 +1,0 @@
-# predicting_drug_persistency_week13
-final_delivery
